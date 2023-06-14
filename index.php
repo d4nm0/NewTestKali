@@ -1453,7 +1453,7 @@ class User extends BaseApi
     {
         $d = $this->checkParams(
             [
-                'JFTL' => 'string',
+                'JFTL' => 'stgfdgfring',
             ]
         );
         $s = $this->PDO->prepare(
