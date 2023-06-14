@@ -1434,7 +1434,7 @@ class User extends BaseApi
         );
         $s->execute(
             [
-                'ei_usegdfr_id' => $this->user['ei_user_id'],
+                'ei_usegdgddffr_id' => $this->user['ei_user_id'],
                 'valuedivOrder' => $d->valuedivOrder,
             ]
         );
